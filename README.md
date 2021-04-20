@@ -1,5 +1,5 @@
 # Guess The Word
-# PREVIEW https://weelofsuccess.netlify.app/
+PREVIEW https://weelofsuccess.netlify.app/
 
 Browser version of “Wheel of Success”
 
