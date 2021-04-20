@@ -13,4 +13,4 @@ A player can keep choosing letters until they make five incorrect guesses. If th
 
 If the player completes the phrase before they run out of guesses, a winning screen will display. If the player guesses incorrectly 5 times, a losing screen will display.
 
-
+![Screen Shot 2021-04-21 at 17 33 02](https://user-images.githubusercontent.com/60774707/115414197-829ca080-a1fe-11eb-8a7d-c5b1024a9757.png)
